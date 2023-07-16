@@ -1,0 +1,8 @@
+en
+fr
+ge
+it
+jp
+sp
+kr
+cn
